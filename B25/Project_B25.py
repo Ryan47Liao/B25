@@ -286,9 +286,8 @@ def B25_main(profile,save_path):
 
 if __name__ == '__main__':
     print("Welcome to project B25")
+    print("EDITED ON GITHUB!!!")
     B25_login()
 
-
-#Edited On Github!!!
 
 
