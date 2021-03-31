@@ -285,6 +285,7 @@ def B25_main(profile,save_path):
 
 
 if __name__ == '__main__':
+    #SEE WHAT HAPPENS NOW!
     B25_login()
 
 
