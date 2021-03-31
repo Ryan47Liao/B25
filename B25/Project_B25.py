@@ -285,6 +285,7 @@ def B25_main(profile,save_path):
 
 
 if __name__ == '__main__':
+    print("Welcome to project B25")
     B25_login()
 
 
